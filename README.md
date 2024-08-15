@@ -2,7 +2,7 @@
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
 
-![not maintained](vhttps://img.shields.io/badge/Maintained%3F-no-red.svg)
+![not maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
 A simple Node.js package that checks, if a given string is null or empty.
 
